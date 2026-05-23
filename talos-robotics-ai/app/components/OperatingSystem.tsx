@@ -12,9 +12,8 @@ export default function OperatingSystem() {
             test, and deploy.
           </h2>
           <p>
-            Build a skill step by step or just type what you want done. TalOS
-            plans it, runs it in simulation so you can see it work before it
-            ever touches the floor, then ships it to the real robot.
+            Build a skill or just describe the task. TalOS plans it, runs it
+            in simulation, then ships it to the robot.
           </p>
         </Reveal>
 
@@ -37,7 +36,7 @@ export default function OperatingSystem() {
           <div className="os-cols">
             <div className="os-col">
               <h4>Flow</h4>
-              <div className="csub">Build your robot skill step by step</div>
+              <div className="csub">Build skills step by step</div>
               <div className="flow-node start">START</div>
               <div className="flow-arrow">↓</div>
               <div className="flow-node">

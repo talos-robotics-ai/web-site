@@ -22,25 +22,16 @@ export default function Roadmap() {
             </div>
             <div className="ybody">
               <div className="rstep">
-                <div className="rh">From simulation to real work</div>
-                <div className="rd">
-                  Tasks proven in simulation move onto real robots running real
-                  jobs.
-                </div>
+                <div className="rh">Sim to real</div>
+                <div className="rd">Proven tasks move onto real robots.</div>
               </div>
               <div className="rstep">
                 <div className="rh">Robots that learn</div>
-                <div className="rd">
-                  Every shift feeds data back in, so your robots keep getting
-                  sharper.
-                </div>
+                <div className="rd">Every shift feeds data back in.</div>
               </div>
               <div className="rstep">
-                <div className="rh">A growing skill library</div>
-                <div className="rd">
-                  Ready-made behaviors you can drop onto a new robot instead of
-                  starting from scratch.
-                </div>
+                <div className="rh">Skill library</div>
+                <div className="rd">Drop ready-made behaviors onto new robots.</div>
               </div>
             </div>
           </div>
@@ -52,24 +43,15 @@ export default function Roadmap() {
             <div className="ybody">
               <div className="rstep">
                 <div className="rh">Fits your systems</div>
-                <div className="rd">
-                  Connects to the inventory, planning and tracking tools you
-                  already run.
-                </div>
+                <div className="rd">Connects to the tools you already run.</div>
               </div>
               <div className="rstep">
-                <div className="rh">One dashboard, every robot</div>
-                <div className="rd">
-                  Manage a whole fleet from a single place, wherever the robots
-                  are.
-                </div>
+                <div className="rh">One dashboard</div>
+                <div className="rd">Manage the whole fleet from one place.</div>
               </div>
               <div className="rstep">
                 <div className="rh">Private by design</div>
-                <div className="rd">
-                  Robots improve from shared learning while your data stays
-                  yours.
-                </div>
+                <div className="rd">Shared learning. Your data stays yours.</div>
               </div>
             </div>
           </div>
@@ -81,22 +63,15 @@ export default function Roadmap() {
             <div className="ybody">
               <div className="rstep">
                 <div className="rh">Any robot, any site</div>
-                <div className="rd">
-                  The same software running across lines, buildings and
-                  locations.
-                </div>
+                <div className="rd">One platform across lines and locations.</div>
               </div>
               <div className="rstep">
                 <div className="rh">Set up in minutes</div>
-                <div className="rd">
-                  Adding a new robot or task gets faster every release.
-                </div>
+                <div className="rd">Adding robots and tasks gets faster.</div>
               </div>
               <div className="rstep">
                 <div className="rh">Support that stays</div>
-                <div className="rd">
-                  Updates and help included for as long as you run with us.
-                </div>
+                <div className="rd">Updates and help included.</div>
               </div>
             </div>
           </div>

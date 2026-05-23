@@ -12,8 +12,7 @@ export default function Features() {
             It runs today.
           </h2>
           <p>
-            Everything below is live right now, validated in real time on real
-            hardware. No &ldquo;coming soon&rdquo; asterisks.
+            Live today on real hardware. No &ldquo;coming soon&rdquo;.
           </p>
         </Reveal>
         <Reveal className="feat-grid">
@@ -22,9 +21,8 @@ export default function Features() {
             <div className="ico">▣</div>
             <div className="ftitle">The brains</div>
             <div className="fdesc">
-              An AI layer that turns plain-language commands into robot actions
-              and lets the robot navigate by meaning, not coordinates — proven
-              in real-time simulation.
+              Plain-language commands become robot actions. Navigation by
+              meaning, not coordinates.
             </div>
           </div>
           <div className="feat">
@@ -32,9 +30,8 @@ export default function Features() {
             <div className="ico">◉</div>
             <div className="ftitle">The eyes</div>
             <div className="fdesc">
-              Stereo vision the robot actually understands — it sees the scene,
-              recognizes what matters, and figures out what you meant when you
-              said &ldquo;the yellow ball.&rdquo;
+              Stereo vision the robot understands — it knows what you mean
+              when you say &ldquo;the yellow ball.&rdquo;
             </div>
           </div>
           <div className="feat">
@@ -42,9 +39,7 @@ export default function Features() {
             <div className="ico">▤</div>
             <div className="ftitle">The cockpit</div>
             <div className="fdesc">
-              A live dashboard showing exactly what the robot sees — camera
-              feeds, segmentation, pose, scene boxes — so you&apos;re never
-              guessing what it&apos;s about to do.
+              A live dashboard showing what the robot sees and is about to do.
             </div>
           </div>
         </Reveal>

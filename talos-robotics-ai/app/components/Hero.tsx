@@ -9,10 +9,8 @@ export default function Hero() {
           to work in days<span className="ast">{"✳︎"}</span>
         </h1>
         <p className="hero-sub">
-          You bought the robot. We make it useful.{" "}
-          <b>TalOS turns any humanoid into a working teammate</b> — describe the
-          job in plain language, watch it run in simulation, then deploy it on
-          your floor. No robotics PhD required.
+          <b>TalOS turns any humanoid into a working teammate.</b> Describe the
+          job, see it run in simulation, deploy on your floor.
         </p>
         <div className="hero-actions">
           <a href="#contact" className="btn btn-fill">
@@ -25,15 +23,15 @@ export default function Hero() {
         <div className="hero-stats">
           <div className="hstat">
             <div className="n">Any</div>
-            <div className="l">Works with any humanoid robot</div>
+            <div className="l">Any humanoid robot</div>
           </div>
           <div className="hstat">
             <div className="n">Plain</div>
-            <div className="l">Set up tasks in plain language</div>
+            <div className="l">Plain-language setup</div>
           </div>
           <div className="hstat">
             <div className="n">Live</div>
-            <div className="l">Test in simulation before you deploy</div>
+            <div className="l">Test before deploy</div>
           </div>
         </div>
       </div>

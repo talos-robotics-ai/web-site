@@ -11,10 +11,7 @@ export default function Pilot() {
             <br />
             on a real factory floor.
           </h2>
-          <p>
-            Our software is doing a real production task in a working
-            industrial plant — not a demo, not a lab.
-          </p>
+          <p>Real production task. Working industrial plant. Not a demo.</p>
         </Reveal>
         <Reveal>
           <div className="pilot-top">
@@ -35,22 +32,19 @@ export default function Pilot() {
             <div className="pcell2">
               <div className="ph">{"✳︎ The task"}</div>
               <div className="pd">
-                A real production job, set up and running inside a live
-                industrial environment.
+                Real production job, running in a live industrial environment.
               </div>
             </div>
             <div className="pcell2">
               <div className="ph">◧ Done by a robot</div>
               <div className="pd">
-                The task runs end to end on a humanoid, handled entirely by the
-                platform.
+                End to end on a humanoid, run entirely by the platform.
               </div>
             </div>
             <div className="pcell2">
               <div className="ph">▮ Getting better</div>
               <div className="pd">
-                Real-world use feeds back in, improving reliability the longer
-                it runs.
+                Real-world use improves reliability the longer it runs.
               </div>
             </div>
           </div>

@@ -12,9 +12,8 @@ export default function Pricing() {
             Scale when you&apos;re ready.
           </h2>
           <p>
-            Begin with a single task on a single robot, see it work in your own
-            environment, then roll it out across the floor. Don&apos;t have a
-            robot yet? We can supply one alongside the software.
+            One task, one robot, your environment. Then scale. No robot? We
+            can supply one.
           </p>
         </Reveal>
         <Reveal className="bm-grid">
@@ -28,9 +27,9 @@ export default function Pricing() {
             </div>
             <div className="bm-body">
               <ul>
-                <li>We set up one real task in your environment</li>
-                <li>You see it run before committing further</li>
-                <li>A fixed, upfront price with no surprises</li>
+                <li>One real task in your environment</li>
+                <li>See it run before committing</li>
+                <li>Fixed upfront price</li>
               </ul>
             </div>
           </div>
@@ -45,13 +44,12 @@ export default function Pricing() {
             <div className="bm-body">
               <ul>
                 <li>Add new tasks without re-engineering</li>
-                <li>Manage every robot from one dashboard</li>
-                <li>Your robots keep improving with use</li>
+                <li>One dashboard for every robot</li>
+                <li>Robots keep improving with use</li>
               </ul>
             </div>
             <div className="bm-note">
-              <b>Simple pricing:</b> an annual software subscription plus usage
-              as you grow.
+              <b>Simple pricing:</b> annual subscription plus usage.
             </div>
           </div>
           <div className="bm-card">
@@ -65,13 +63,12 @@ export default function Pricing() {
             <div className="bm-body">
               <ul>
                 <li>Roll out across lines and sites</li>
-                <li>Connect to the systems you already use</li>
-                <li>Ongoing support and updates included</li>
+                <li>Connects to your existing systems</li>
+                <li>Support and updates included</li>
               </ul>
             </div>
             <div className="bm-note">
-              No robots yet? We can include the hardware, so you pay one simple
-              subscription for everything.
+              No robots? We include the hardware in one subscription.
             </div>
           </div>
         </Reveal>

@@ -12,30 +12,25 @@ export default function Problem() {
             The software isn&apos;t.
           </h2>
           <p>
-            Traditional automation can&apos;t bend — change the line and you
-            rebuild the cell. Humanoids promise flexibility instead, and
-            they&apos;re shipping by the thousands. But every one arrives as
-            brilliant hardware running nothing that can actually do a
-            day&apos;s work.
+            Humanoids ship by the thousands — brilliant hardware running
+            nothing that can do a day&apos;s work.
           </p>
         </Reveal>
         <Reveal className="prob-grid">
           <div className="prob-cell">
             <div className="big">3×</div>
-            <div className="cap">More floor space, gone</div>
+            <div className="cap">Floor space wasted</div>
             <div className="desc">
-              A fixed automation cell eats up to three times the footprint of a
-              flexible humanoid workstation — and the day your product changes,
-              it&apos;s scrap.
+              Fixed cells eat 3× the footprint of a humanoid — and the day
+              your product changes, they&apos;re scrap.
             </div>
           </div>
           <div className="prob-cell">
             <div className="big">0</div>
             <div className="cap">Robots that work out of the box</div>
             <div className="desc">
-              Pretrained models aren&apos;t plug-and-play. To do real work, a
-              robot needs data from your task, your tools, your floor.
-              That&apos;s the gap we close.
+              Pretrained models aren&apos;t plug-and-play. Real work needs
+              your task, your tools, your floor.
             </div>
           </div>
         </Reveal>
