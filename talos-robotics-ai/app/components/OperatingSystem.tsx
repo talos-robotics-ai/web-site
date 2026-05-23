@@ -23,9 +23,6 @@ export default function OperatingSystem() {
               <span style={{ color: "var(--orange)", fontWeight: 800 }}>
                 Tal<span style={{ color: "var(--ink)" }}>OS</span>
               </span>
-              <span className="crumb">
-                Projects / <b>Humanoid</b>
-              </span>
             </div>
             <div className="right">
               <span className="pill dot">Saved</span>

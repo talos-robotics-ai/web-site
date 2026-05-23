@@ -629,6 +629,20 @@ section {
   .os-col:last-child { border-bottom: none; }
 }
 
+@media (max-width: 680px) {
+  .os-bar {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 8px;
+    padding: 12px 14px;
+  }
+  .os-bar .right {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .pill { font-size: 10px; padding: 5px 9px; }
+}
+
 /* ---------- FEATURES ---------- */
 .feat-grid {
   display: grid;
