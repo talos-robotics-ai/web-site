@@ -166,7 +166,24 @@ nav.site-nav {
 }
 
 @media (max-width: 860px) {
+  .nav-inner {
+    grid-template-columns: 1fr auto;
+    height: 60px;
+  }
   .nav-links { display: none; }
+  .nav-inner .logo {
+    justify-self: start;
+    transform: none;
+  }
+  .nav-inner .nav-cta {
+    justify-self: end;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo { font-size: 13px; gap: 6px; }
+  .logo .ast { font-size: 17px; }
+  .nav-cta { padding: 8px 14px; font-size: 11px; }
 }
 
 /* ---------- HERO ---------- */
