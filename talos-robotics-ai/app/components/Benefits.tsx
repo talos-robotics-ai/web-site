@@ -14,14 +14,14 @@ export default function Benefits() {
         </Reveal>
         <Reveal className="market-flex">
           <div className="market-copy">
-            <h3>Works with the robot you have.</h3>
+            <h3>Multi-modal. Multi-robot.</h3>
             <p>
-              Hardware-agnostic. Bring your own humanoid or add one later — the
-              platform stays the same.
+              Our models are built to be multi-modal — vision, language and
+              action — and to extend across any humanoid platform.
             </p>
             <p>
-              Every run feeds back in, so your robots get better the more
-              they work.
+              Bring your own robot or add one later. Every run feeds back in,
+              so the system gets sharper the more it works.
             </p>
           </div>
           <div className="market-copy">

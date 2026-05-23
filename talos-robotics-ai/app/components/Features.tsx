@@ -21,8 +21,8 @@ export default function Features() {
             <div className="ico">▣</div>
             <div className="ftitle">The brains</div>
             <div className="fdesc">
-              Plain-language commands become robot actions. Navigation by
-              meaning, not coordinates.
+              Multi-modal models that turn plain-language commands into robot
+              actions — designed to extend across any humanoid platform.
             </div>
           </div>
           <div className="feat">
@@ -30,8 +30,9 @@ export default function Features() {
             <div className="ico">◉</div>
             <div className="ftitle">The eyes</div>
             <div className="fdesc">
-              Stereo vision the robot understands — it knows what you mean
-              when you say &ldquo;the yellow ball.&rdquo;
+              Stereo vision the robot understands — it perceives the scene,
+              recognizes parts, tools and people, and acts on what you
+              describe.
             </div>
           </div>
           <div className="feat">
