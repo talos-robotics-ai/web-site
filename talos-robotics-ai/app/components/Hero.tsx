@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="wrap">
         <div className="hero-tag">The operating system for humanoid robots</div>
         <h1>
-          Put a humanoid
+          Get a humanoid
           <br />
           to work in days<span className="ast">{"✳︎"}</span>
         </h1>

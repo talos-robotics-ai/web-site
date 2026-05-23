@@ -9,7 +9,7 @@ export default function Nav() {
           <a href="#pricing">Pricing</a>
         </div>
         <div className="logo">
-          <span className="ast">{"✳︎"}</span>TALOS ROBOTICS
+          <span className="ast">{"✳︎"}</span>TALOS ROBOTICS AI
         </div>
         <a href="#contact" className="nav-cta">
           Get started
