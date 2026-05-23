@@ -20,7 +20,7 @@ export default function Pricing() {
         <Reveal className="bm-grid">
           <div className="bm-card">
             <div className="bm-top">
-              <div className="bi">✳</div>
+              <div className="bi">{"✳︎"}</div>
               <div>
                 <div className="label">Step one</div>
                 <div className="stage">Try it</div>

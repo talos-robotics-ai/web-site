@@ -33,7 +33,7 @@ export default function Pilot() {
           </div>
           <div className="pilot-bot">
             <div className="pcell2">
-              <div className="ph">✳ The task</div>
+              <div className="ph">{"✳︎ The task"}</div>
               <div className="pd">
                 A real production job, set up and running inside a live
                 industrial environment.

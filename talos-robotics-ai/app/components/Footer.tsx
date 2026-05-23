@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="wrap foot-inner">
         <div className="logo">
           <span className="ast" style={{ color: "var(--orange)" }}>
-            ✳
+            {"✳︎"}
           </span>
           TALOS ROBOTICS
         </div>

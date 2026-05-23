@@ -6,7 +6,7 @@ export default function Hero() {
         <h1>
           Put a humanoid
           <br />
-          to work in days<span className="ast">✳</span>
+          to work in days<span className="ast">{"✳︎"}</span>
         </h1>
         <p className="hero-sub">
           You bought the robot. We make it useful.{" "}

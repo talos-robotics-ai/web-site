@@ -2,7 +2,7 @@ export default function CTA() {
   return (
     <section className="cta" id="contact">
       <div className="wrap">
-        <div className="ast">✳</div>
+        <div className="ast">{"✳︎"}</div>
         <h2>
           Let&apos;s get your robot
           <br />
