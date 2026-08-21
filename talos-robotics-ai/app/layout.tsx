@@ -1,18 +1,19 @@
 import type { Metadata } from "next";
-import { Archivo, JetBrains_Mono } from "next/font/google";
+import { Jost, Source_Serif_4 } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
-const archivo = Archivo({
-  variable: "--font-archivo",
+const jost = Jost({
+  variable: "--font-jost",
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
 });
 
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
+// opsz is opted into explicitly so the 18pt optical size can be pinned in CSS
+const sourceSerif = Source_Serif_4({
+  variable: "--font-source-serif",
   subsets: ["latin"],
-  weight: ["400", "500", "700", "800"],
+  style: "italic",
+  axes: ["opsz"],
 });
 
 export const metadata: Metadata = {
@@ -27,10 +28,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${archivo.variable} ${jetbrainsMono.variable}`}
-    >
+    <html lang="en" className={`${jost.variable} ${sourceSerif.variable}`}>
       <body>
         {children}
         <Analytics />
